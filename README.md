@@ -63,7 +63,4 @@ The **Remote Controlled Landmine Detection Robot** is designed to detect hidden 
 - Camera integration  
 - Autonomous navigation  
 
----
 
-## 📸 Project Images
-_Add your project images here_
